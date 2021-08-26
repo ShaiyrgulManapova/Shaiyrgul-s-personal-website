@@ -1,0 +1,129 @@
+body {
+  margin: auto 300px auto 300px;
+  padding: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  background-color: #e4f9f5;
+  float: center;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  color: #66bfbf;
+  font-size: 60px;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  color: #66bfbf;
+  font-weight: normal;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  margin: 0 auto 0 auto;
+  color: #11999e;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #66bfbf;
+  text-align: left;
+}
+
+h4 {
+  font-family: "Montserrat", sans-serif;
+  color: #66bfbf;
+  text-align: center;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #e4f9f5;
+}
+
+.bottom-container {
+  margin-top: 40px;
+  padding: 50px 0 20px;
+  background-color: #b0f8eb;
+  color: #0d7477;
+}
+
+.footer-link {
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 100px;
+  top: 50px;
+  width: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 250px;
+  left: 100px;
+  width: 100px;
+}
+
+.mountain {
+  width: 600px;
+}
+
+.shaiyrgul {
+  width: 200px;
+  float: right;
+  margin-left: 10px;
+}
+
+/* .skill-row {
+  width: 50%;
+  text-align: left;
+  color: #66bfbf;
+} */
+
+.skills-img {
+  width: 200px;
+  float: left;
+  margin-left: 10px;
+}
+
+.study-experience {
+  text-align: left;
+  color: #186e6e;
+  float: center;
+}
+
+.skill-text {
+  width: 100%;
+  text-align: left;
+  color: #66bfbf;
+}
+
+.skills-table {
+  text-align: left;
+  color: #186e6e;
+  float: center;
+}
+
+.index-text {
+  float: center;
+  width: 100%;
+  text-align: right;
+  color: #66bfbf;
+}
+
+.copyright {
+  font-size: 0.8rem;
+  margin-bottom: 0;
+}
