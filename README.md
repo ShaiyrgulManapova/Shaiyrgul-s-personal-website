@@ -1,3 +1,3 @@
 # Shaiyrgul-s-personal-website
-My personal web site which I learn from lesson Angela Yu.⭐
+My personal web site ⭐
 LINK: https://shaiyrgulmanapova.github.io/Shaiyrgul-s-personal-website/
